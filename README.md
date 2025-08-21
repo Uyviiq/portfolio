@@ -32,6 +32,6 @@ This portfolio is:
 
 - HTML5  
 - CSS3  
-*(No frameworks or fancy libraries — just raw fundamentals.)*
+(No frameworks or fancy libraries  just raw fundamentals.)
 
 Thanks for checking this out. One day, I’ll look back at this and see how far I’ve come
