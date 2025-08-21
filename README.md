@@ -26,7 +26,7 @@ This portfolio is:
 
 🔗 Live Demo
 
-[Check it live here](https://your-username.github.io/your-repo-name)
+[Check it live here](https://uyviiq.github.io/portfolio/)
 
 🛠 Built With
 
