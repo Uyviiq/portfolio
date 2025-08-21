@@ -26,7 +26,7 @@ This portfolio is:
 
 🔗 Live Demo
 
-[Check it live here](https://uyviiq.github.io/portfolio/)
+<a href="https://uyviiq.github.io/portfolio/" target="_blank">Live Demo</a>
 
 🛠 Built With
 
